@@ -1,0 +1,34 @@
+[
+    [
+        0,
+        "0.650*\"SaSI\" + 0.193*\"kabi\" + 0.162*\"hAH\" + 0.120*\"SaSIra\" + 0.108*\"jyATAimA\" + 0.083*\"sabyasAcIra\" + 0.079*\"rAmaxAsa\" + 0.076*\"hIrA\" + 0.071*\"dAkwArabAbu\" + 0.069*\"SaSi\""
+    ],
+    [
+        1,
+        "0.751*\"jyATAimA\" + 0.372*\"biSbeSbarI\" + -0.184*\"SaSI\" + 0.118*\"jyATAimAra\" + 0.095*\"bAbAjI\" + 0.081*\"badZaxA\" + 0.073*\"xInu\" + 0.070*\"beNIbAbu\" + 0.070*\"cAbi\" + 0.069*\"BAzdZAra\""
+    ],
+    [
+        2,
+        "-0.433*\"rAmaxAsa\" + 0.305*\"SaSI\" + 0.211*\"jyATAimA\" + -0.196*\"dAkwArabAbu\" + 0.112*\"kabi\" + 0.109*\"biSbeSbarI\" + 0.107*\"hAH\" + -0.102*\"bAbujI\" + -0.086*\"raGubIra\" + -0.082*\"xora\""
+    ],
+    [
+        3,
+        "-0.420*\"rAmaxAsa\" + 0.270*\"BEraba\" + 0.222*\"raGubIra\" + 0.189*\"mAsi\" + -0.158*\"jyATAimA\" + 0.148*\"rAmabAbu\" + 0.124*\"XarmaxAsa\" + 0.113*\"wAriNI\" + 0.102*\"BErabera\" + -0.099*\"biSbeSbarI\""
+    ],
+    [
+        4,
+        "-0.317*\"raGubIra\" + 0.276*\"BEraba\" + 0.218*\"mAsi\" + 0.181*\"rAmaxAsa\" + -0.158*\"rAmabAbu\" + 0.136*\"XarmaxAsa\" + 0.132*\"wAriNI\" + 0.117*\"hAH\" + 0.109*\"SaSI\" + -0.107*\"mAijI\""
+    ],
+    [
+        5,
+        "0.289*\"raGubIra\" + -0.143*\"saByawAra\" + 0.139*\"rAmabAbu\" + 0.135*\"hAH\" + -0.126*\"BEraba\" + -0.123*\"saByawA\" + -0.111*\"bAfalAra\" + -0.107*\"SAnwi\" + -0.099*\"iuropera\" + 0.098*\"hIrA\""
+    ],
+    [
+        6,
+        "0.335*\"raGubIra\" + -0.331*\"dAkwArabAbu\" + 0.309*\"rAmaxAsa\" + 0.114*\"bAbujI\" + 0.111*\"mAijI\" + -0.092*\"AiyZAra\" + 0.084*\"BEraba\" + -0.078*\"kqRNa\" + -0.075*\"paWera-xAbI\" + -0.070*\"sejaxi\""
+    ],
+    [
+        7,
+        "-0.315*\"dAkwArabAbu\" + -0.304*\"raGubIra\" + 0.255*\"rAmabAbu\" + 0.203*\"sejaxi\" + 0.146*\"mqNAlaxixi\" + 0.143*\"harira\" + 0.136*\"jyATAmaSAi\" + 0.117*\"suramA\" + 0.099*\"sejaxA\" + -0.098*\"mAijI\""
+    ]
+]

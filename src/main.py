@@ -16,16 +16,24 @@ def lda(fileName):
 
         corpse = [dictionary.doc2bow(text) for text in a]
         lda = gensim.models.ldamodel.LdaModel(corpse , num_topics = 8 , id2word=dictionary , passes=10)
+        lsi = gensim.models.LsiModel(corpse ,id2word=dictionary , num_topics=8)
 
     name = list(list(fileName.split('/'))[-1].split("."))[-2]
     # print(name)
 
-    with open("../output/"+name+"_lda.json" , 'w') as f:
+    #LDA
+    lda_name = "../output/"+name+"_lda.json"
+    with open(lda_name , 'w') as f:
         f.write(json.dumps(lda.print_topics(-1), indent=4))
     
     web = pyLDAvis.gensim.prepare(topic_model=lda , corpus=corpse , dictionary=dictionary)
-    htmlName = name+".html"
+    htmlName = lda_name+".html"
     pyLDAvis.save_html(web , htmlName)
+
+    #LSI
+    lsi_name = "../output/"+name+"_lsi.json"
+    with open(lsi_name , 'w') as f:
+        f.write(json.dumps(lsi.print_topics(-1), indent=4))
 
 
 if __name__ == "__main__":    
